@@ -13,3 +13,5 @@ fixtures:
     mysql: "git://github.com/puppetlabs/puppetlabs-mysql"
     ntp: "git://github.com/puppetlabs/puppetlabs-ntp"
     stdlib: "git://github.com/puppetlabs/puppetlabs-stdlib"
+    tftp: "git://github.com/puppetlabs/puppetlabs-tftp"
+    xinetd: "git://github.com/puppetlabs/puppetlabs-xinetd"
